@@ -16,6 +16,12 @@ color: #00AAAA;
 text-shadow: 3px 3px #002A2A;
 }
 
+.ip-port {
+text-align: center;
+font-family: minecraftiaregular;
+margin-top: 8px;
+}
+
 body {
 background-color: #AAAAAA;
 }
