@@ -1,0 +1,21 @@
+.Headline1 {
+text-align: center;
+font-family: Verdana;
+margin-bottom: 0px;
+font-size: 55px;
+color: #FFFF55;
+text-shadow: 5px 5px #3F3F15;
+}
+
+.Headline2 {
+text-align: center;
+font-family: Verdana;
+margin-top: 0px;
+font-size: 27px;
+color: #00AAAA;
+text-shadow: 3px 3px #002A2A;
+}
+
+body {
+background-color: #AAAAAA;
+}
