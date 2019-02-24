@@ -16,10 +16,16 @@ color: #00AAAA;
 text-shadow: 3px 3px #002A2A;
 }
 
-.ip-port {
+.ip {
 text-align: center;
 font-family: minecraftiaregular;
 margin-top: 8px;
+}
+
+.port {
+text-align: center;
+font-family: minecraftiaregular;
+margin-top: 2px;
 }
 
 body {
