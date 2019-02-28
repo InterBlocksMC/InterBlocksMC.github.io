@@ -29,6 +29,10 @@ font-family: minecraftiaregular;
 margin-top: 2px;
 }
 
+.vote01 {
+text-align: center;
+}
+
 body {
 background-color: #AAAAAA;
 }
